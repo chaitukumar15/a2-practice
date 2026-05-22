@@ -15,3 +15,7 @@ def api_calling():
 
 st.write(api_calling())
 
+v=print(10)
+
+for i in [1,2,3,4]:
+    print(i)
